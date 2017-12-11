@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "chem-mensa-bot-executor",
+    "name": "chem-mensa-bot",
+    "region": "us-east-1"
+  }
+}
